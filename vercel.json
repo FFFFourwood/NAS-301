@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",       // 捕获所有路径
+      "destination": "http://QuickConnect.cn/li470598498", // 重定向目标
+      "permanent": true         // 是否为永久重定向
+    }
+  ]
+}
